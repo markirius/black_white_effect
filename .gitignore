@@ -159,3 +159,4 @@ Sessionx.vim
 # Auto-generated tag files
 tags
 # Persistent undo
+.tool-versions
